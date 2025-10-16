@@ -12,3 +12,5 @@ Upon acceptance, we will release:
 - Pretrained checkpoints and configuration files
 - Complete results tables and figures
 - Instructions for reproducing all experiments
+===
+Please check back after acceptance for the full release.
